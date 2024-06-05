@@ -1,3 +1,9 @@
+/**
+ * binary_tree_node - function that creates a node
+ *
+ * @parent: pointer to the parent node
+ * @value: value to store in the created node
+ */
 #include <stdlib.h>
 #include "binary_trees.h"
 #include <stdio.h>
